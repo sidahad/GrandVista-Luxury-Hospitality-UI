@@ -1,0 +1,14 @@
+# Editor & OS cache files
+.vs/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# HTTrack & Web Copier temporary files/logs
+*.log
+*.warc
+hts-cache/
+
+# General backups and temporary files
+*.tmp
+*.bak
